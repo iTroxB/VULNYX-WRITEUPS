@@ -8,5 +8,6 @@ Repository where I host my writings of the virtual machines that I have solved f
 
 | **Name VM** | **OS** | **Difficulty** | **Check** |
 |-------------|--------|----------------|-----------|
-| Agent       | Linux  | Easy           | <span style="color:green">✔</span> |
-| Infected    | Linux  | Easy           | <span style="color:red">✘</span> |
+| Agent       | Linux  | Easy           | <span style="color: green;">✔</span> |
+| Infected    | Linux  | Easy           | <span style="color: green;">✘</span> |
+
