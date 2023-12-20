@@ -8,6 +8,6 @@ Repository where I host my writings of the virtual machines that I have solved f
 
 | **Name VM** | **OS** | **Difficulty** | **Check** |
 |-------------|--------|----------------|-----------|
-| Agent       | Linux  | Easy           | **✔**    |
-| Infected    | Linux  | Easy           | **In process**    |
-
+| Agent       | Linux  | Easy           | **✔**     |
+| Infected    | Linux  | Easy           | **✔**     |
+| Mux         | Linux  | Easy           | **In process**    |
