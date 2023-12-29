@@ -6,9 +6,9 @@ Repository where I host my writings of the virtual machines that I have solved f
 
 ## **List**
 
-| **Name VM** | **OS** | **Difficulty** | **Check** |
-|-------------|--------|----------------|-----------|
-| Agent       | Linux  | Easy           | **✔**     |
-| Infected    | Linux  | Easy           | **✔**     |
-| Mux         | Linux  | Easy           | **✔**    |
-| Unit        | Linux  | Easy           | **In process**    |
+| **Name VM** | **OS** | **Difficulty (⭐⭐⭐)** | **Check** |
+|-------------|--------|--------------------------|-----------|
+| Agent       | Linux  | Easy ⭐          | **✔**     |
+| Infected    | Linux  | Easy ⭐          | **✔**     |
+| Mux         | Linux  | Easy ⭐          | **✔**    |
+| Unit        | Linux  | Easy ⭐          | **In process**    |
